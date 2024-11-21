@@ -1,6 +1,5 @@
 # 🌟 Vekrotis | Transforming Ideas into Interactive Realities
 
-Hi there! 👋  
 I’m **Vekrotis**, a passionate developer who loves building modern, interactive projects. I focus on web development.
 
 ![Background](https://raw.githubusercontent.com/Vekrotis/Vekrotis/refs/heads/main/HHSrwcZ0.jpg)
@@ -35,8 +34,8 @@ Here are some tools and technologies I work with:
 
 ---
 
-## 🌟 Fun Facts
-- 🎨 I love clean, modern designs with glowing and 3D effects.
+## 🌟 I.. 
+- 🎨 love clean, modern designs with glowing and 3D effects.
 - 🚀 Always exploring new tools and frameworks.
 - 🧩 Enjoy solving creative challenges with my team.
 
@@ -45,9 +44,3 @@ Here are some tools and technologies I work with:
 ## 📬 Let’s Connect!
 - 🌐 **Portfolio is comming soon**
 - 💬 Discord: Vekrotis
-
- 
-
----
-
-*Feel free to drop by and say hi!*
