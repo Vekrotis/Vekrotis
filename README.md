@@ -1,4 +1,4 @@
-# 🌟 Vekrotis | Transforming Ideas into Interactive Realities
+# 🌟 Vekrotis
 ## 🚀 What I Do
 - 💻 **Web Development**: Crafting responsive and stylish websites.
 - 🛠 **Team Projects**: Working on creative team ideas like [InSpareUnity](https://your-vercel-url.vercel.app/).
