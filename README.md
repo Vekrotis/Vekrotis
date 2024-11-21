@@ -1,9 +1,4 @@
 # 🌟 Vekrotis | Transforming Ideas into Interactive Realities
-
-Hi there! 👋  
-I’m **Vekrotis**, a passionate developer who loves building modern, interactive projects. I focus on web development and enjoy experimenting with new technologies.
----
-
 ## 🚀 What I Do
 - 💻 **Web Development**: Crafting responsive and stylish websites.
 - 🛠 **Team Projects**: Working on creative team ideas like [InSpareUnity](https://your-vercel-url.vercel.app/).
