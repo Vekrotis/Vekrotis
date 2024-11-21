@@ -3,7 +3,7 @@
 Hi there! 👋  
 I’m **Vekrotis**, a passionate developer who loves building modern, interactive projects. I focus on web development.
 
-![Profile Banner]([https://via.placeholder.com/800x200?text=Your+Custom+Banner+Image](https://raw.githubusercontent.com/Vekrotis/Vekrotis/refs/heads/main/HHSrwcZ0.jpg)  
+![Profile Banner]([[https://via.placeholder.com/800x200?text=Your+Custom+Banner+Image](https://raw.githubusercontent.com/Vekrotis/Vekrotis/refs/heads/main/HHSrwcZ0.jpg)](https://raw.githubusercontent.com/Vekrotis/Vekrotis/refs/heads/main/HHSrwcZ0.jpg))
 
 ---
 
