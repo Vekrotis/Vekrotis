@@ -34,9 +34,9 @@ Here are some tools and technologies I work with:
 
 ---
 
-## 🌟 I.. 
+## 🌟 I..
 - 🎨 love clean, modern designs with glowing and 3D effects.
-- 🚀 always exploring new tools and frameworks.
+- 🚀 always explore new tools and frameworks.
 - 🧩 enjoy solving creative challenges with my team.
 
 ---
