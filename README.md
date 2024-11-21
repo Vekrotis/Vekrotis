@@ -33,12 +33,6 @@ Here are some tools and technologies I work with:
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vekrotis&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vekrotis&layout=compact&theme=radical)
-
----
-
 ## 🌟 Fun Facts
 - 🎨 I love clean, modern designs with glowing and 3D effects.
 - 🚀 Always exploring new tools and frameworks.
@@ -47,9 +41,9 @@ Here are some tools and technologies I work with:
 ---
 
 ## 📬 Let’s Connect!
-- 🌐 **[Portfolio](https://your-website.com)**  
-- 🐦 **[Twitter](https://twitter.com/yourusername)**  
-- 💼 **[LinkedIn](https://linkedin.com/in/yourusername)**  
+- 🌐 **[Portfolio](https://your-website.com)**
+- 💬 **Discord**: ![Discord Icon](https://img.shields.io/badge/-Vekrotis-5865F2?style=flat-square&logo=discord&logoColor=white)
+ 
 
 ---
 
