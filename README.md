@@ -23,6 +23,8 @@ Here are some tools and technologies I work with:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Ren'Py](https://img.shields.io/badge/Ren'Py-1D1F2A?style=flat-square&logo=renpy&logoColor=white)
+
 
 ---
 
