@@ -3,7 +3,7 @@
 Hi there! 👋  
 I’m **Vekrotis**, a passionate developer who loves building modern, interactive projects. I focus on web development.
 
-![Vekrotis Background](https://raw.githubusercontent.com/Vekrotis/Vekrotis/refs/heads/main/HHSrwcZ0.jpg)
+![Background](https://raw.githubusercontent.com/Vekrotis/Vekrotis/refs/heads/main/HHSrwcZ0.jpg)
 
 ---
 
@@ -40,7 +40,7 @@ Here are some tools and technologies I work with:
 ---
 
 ## 📬 Let’s Connect!
-- 🌐 **[Portfolio](https://your-website.com)**
+- 🌐 **Portfolio is comming soon**
 - 💬 Discord: Vekrotis
 
  
