@@ -42,7 +42,7 @@ Here are some tools and technologies I work with:
 
 ## 📬 Let’s Connect!
 - 🌐 **[Portfolio](https://your-website.com)**
-- 💬 **Discord**: ![Discord Icon](https://img.shields.io/badge/-Vekrotis-5865F2?style=flat-square&logo=discord&logoColor=white)
+- ![Discord Icon](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white): Vekrotis
  
 
 ---
