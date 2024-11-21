@@ -42,7 +42,7 @@ Here are some tools and technologies I work with:
 
 ## 📬 Let’s Connect!
 - 🌐 **[Portfolio](https://your-website.com)**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="20" height="20"/> Vekrotis
+- 💬 Discord: Vekrotis
 
  
 
