@@ -28,8 +28,8 @@ Here are some tools and technologies I work with:
 ---
 
 ## 🌱 Current Projects
-- 🌐 **InSpareUnity** – A modern portfolio platform with user management, surveys, and more.
-- 🎮 **Visual Novel** – A story-driven game with high quality renders, transitions, and interactive choices.
+- 🌐 **InSpareUnity** - A modern portfolio platform with user management, surveys, and more.
+- 🎮 **Visual Novel** - A story-driven game with high quality renders, transitions, and interactive choices.
 
 ---
 
