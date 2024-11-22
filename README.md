@@ -9,7 +9,7 @@ I’m **Vekrotis** 🕊, a passionate developer who loves building modern, cool 
 - 💻 **Web Development**: Crafting responsive and stylish websites.
 - 🛠 **Team Projects**: Working on creative team ideas.
 - 🎮 **Game Design**: Exploring visual novels with Ren'Py.
-- 🤖 **Discord bots**: Learning to build bots to enhance server experience even more.
+- 🤖 **Discord Bots**: Learning to build bots to enhance server experience even more.
 
 ---
 
