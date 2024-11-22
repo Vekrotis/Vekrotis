@@ -1,6 +1,6 @@
 # 🌟 Vekrotis | Transforming Ideas into Interactive Realities
 
-I’m **Vekrotis**, a passionate developer who loves building modern, interactive projects. I focus on web development.
+I’m **Vekrotis** 🕊, a passionate developer who loves building modern, cool looking projects. I focus on web development.
 
 ![Background](https://raw.githubusercontent.com/Vekrotis/Vekrotis/refs/heads/main/HHSrwcZ0.jpg)
 
