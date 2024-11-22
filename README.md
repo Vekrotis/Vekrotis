@@ -8,13 +8,13 @@ I’m **Vekrotis**, a passionate developer who loves building modern, interactiv
 
 ## 🚀 What I Do
 - 💻 **Web Development**: Crafting responsive and stylish websites.
-- 🛠 **Team Projects**: Working on creative team ideas like [InSpareUnity](https://your-vercel-url.vercel.app/).
+- 🛠 **Team Projects**: Working on creative team ideas.
 - 🎮 **Game Design**: Exploring visual novels with Ren'Py.
 
 ---
 
 ## 🔧 Technologies
-Here are some tools and technologies I work with:  
+Here are some tools and technologies I work with: 
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -29,15 +29,16 @@ Here are some tools and technologies I work with:
 ---
 
 ## 🌱 Current Projects
-- 🌐 [**InSpareUnity**](https://your-vercel-url.vercel.app/) – A modern portfolio platform with user management, surveys, and more.
-- 🎮 **Visual Novel** – A story-driven game with music, transitions, and interactive choices.
+- 🌐 **InSpareUnity** – A modern portfolio platform with user management, surveys, and more.
+- 🎮 **Visual Novel** – A story-driven game with high quality renders, transitions, and interactive choices.
 
 ---
 
 ## 🌟 I..
 - 🎨 love clean, modern designs with glowing and 3D effects.
-- 🚀 always explore new tools and frameworks.
 - 🧩 enjoy solving creative challenges with my team.
+- 🐣 don't know much about backend.
+- 🚀 always explore new tools and frameworks.
 
 ---
 
