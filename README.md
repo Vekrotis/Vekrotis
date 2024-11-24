@@ -1,5 +1,5 @@
 # 🌟 Vekrotis
-I’m **Vekrotis** 🕊, a passionate developer who loves creating modern, visually appealing projects. My main focus is **web development**, with a mission to turn ideas into interactive realities.
+I'm **Vekrotis** 🕊, a passionate developer who loves creating modern, visually appealing projects. My main focus is **web development**, with a mission to turn ideas into interactive realities.
 
 ![Background](https://raw.githubusercontent.com/Vekrotis/Vekrotis/refs/heads/main/HHSrwcZ0.jpg)
 
@@ -37,12 +37,12 @@ Here are some tools and technologies I work with:
 
 ## 🌟 I...
 - 🎨 love clean, modern designs with glowing and 3D effects (but I still have a lot to learn).
-- 🧩 enjoy tackling creative challenges with my team.
+- 🧩 Love solving creative challenges and collaborating with my team.
 - 🐣 am learning backend development.
 - 🚀 constantly explore new tools and frameworks.
 
 ---
 
-## 📬 Let’s Connect!
+## 📬 Let's Connect!
 - 🌐 **Portfolio**: Coming soon!
 - 💬 **Discord**: vekrotis
