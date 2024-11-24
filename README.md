@@ -45,4 +45,4 @@ Here are some tools and technologies I work with:
 
 ## 📬 Let’s Connect!
 - 🌐 **Portfolio**: Coming soon!
-- 💬 **Discord**: [Vekrotis](https://discord.com/users/Vekrotis)
+- 💬 **Discord**: vekrotis
